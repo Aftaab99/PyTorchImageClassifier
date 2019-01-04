@@ -20,4 +20,4 @@ This repository aims to serve as a sample for image classification in pytorch. I
 The dataset contains over 18500 images for training and 469 images for testing. All images are grayscale 28x28px images.
 
 ## Model used and accuracy
-A convolutional neural network achieves an accuracy of 91.83% on this dataset.
+A convolutional neural network achieves an accuracy of 92.37% on this dataset.
